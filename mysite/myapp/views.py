@@ -8,4 +8,4 @@ def index(request):
 
 
 def categories(request):
-    return HttpResponse("Categoriya")
+    return HttpResponse("Categoriyalar")
